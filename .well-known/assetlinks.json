@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.spotifymanager.app",
+      "sha256_cert_fingerprints": [
+        "66:29:46:F0:21:15:1D:88:5D:F5:9F:1B:96:7F:C1:3A:4E:85:B0:21:40:C0:04:8C:1F:86:E6:90:66:3C:53:E0"
+      ]
+    }
+  }
+]
